@@ -1,0 +1,3 @@
+spring:
+  profiles:
+    active: dev # 指定开发环境文件
