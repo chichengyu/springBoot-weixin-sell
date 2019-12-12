@@ -2,7 +2,7 @@
 
 点餐系统：用到了，微信支付、微信登录、websocket推送通知
 
-##### 微信登录
+### 微信登录
 
 微信支付用到了如下 jar 包，[git地址](https://github.com/Wechat-Group/WxJava)，这是一个别人写好的微信开发工具包，用的人还是挺多的
 ```
@@ -14,8 +14,8 @@
 </dependency>
 ```
 
-##### 微信支付
-这是专门用于微信、支付包支付的 jar 包，是一个大佬写的，个人感觉还是蛮好用的
+### 微信支付
+这是专门用于微信、支付包支付的 jar 包，[git地址](https://github.com/Pay-Group/best-pay-sdk)，是一个大佬写的，个人感觉还是蛮好用的
 ```
 <dependency>
     <groupId>cn.springboot</groupId>
@@ -24,7 +24,7 @@
 </dependency>
 ```
 
-##### pom.xml
+### pom.xml
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
