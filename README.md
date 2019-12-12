@@ -1,6 +1,6 @@
 # springBoot-weixin-sell
 
-点餐系统：用到了，微信支付、微信登录、websocket推送通知
+点餐系统：用到了，微信支付、微信登录、websocket推送通知以及开发环境与生产环境切换
 
 ### 微信登录
 
